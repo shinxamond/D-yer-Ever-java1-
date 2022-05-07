@@ -1,4 +1,4 @@
-public class HelloWorldApp { // ÆÄÀÏ¸íÀÌ¶û °°¾Æ¾ß ÇÔ 
+public class HelloWorldApp { // íŒŒì¼ëª…ì´ë‘ ê°™ì•„ì•¼ í•¨
 	public static void main(String[] args) {
 	System.out.println("Hello World!!");
 	}
